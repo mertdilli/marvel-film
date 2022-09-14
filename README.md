@@ -1,2 +1,2 @@
-# marvel-film
-Marvel film dizileri listelediğim basit bir html css site
+# film-site
+Bu benim ilk github'a attığım web projem.
